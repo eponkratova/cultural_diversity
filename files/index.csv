@@ -1,160 +1,151 @@
-Rank,Country,Ethnic Fractionalization Index,Cultural Diversity Index
-1,Papua New Guinea,1,
-2,Tanzania,0.953,0.564000
-3,Democratic Republic of Congo,0.933,0.628000
-4,Uganda,0.93,0.647000
-5,Liberia,0.899,0.644000
-6,Cameroon,0.887,0.733000
-7,Togo,0.883,0.602000
-8,South Africa,0.88,0.530000
-9,Congo,0.878,0.562000
-10,Madagascar,0.861,0.192000
-11,Gabon,0.857,0.382000
-12,Kenya,0.852,0.601000
-13,Ghana,0.846,0.388000
-14,Malawi,0.829,0.294000
-15,Guinea-Bissau,0.818,0.568000
-16,Somalia,0.812,0.290000
-17,India,0.811,0.667000
-18,Nigeria,0.805,0.660000
-19,Yugoslavia (1943–1992),0.801,0.385000
-20,Central African Republic,0.791,0.511000
-21,Ivory Coast,0.784,0.557000
-22,Lebanon,0.78,0.195000
-23,Chad,0.772,0.727000
-24,Indonesia,0.766,0.522000
-25,Mozambique,0.765,0.285000
-26,Gambia,0.764,0.548000
-27,Sierra Leone,0.764,0.534000
-28,Ethiopia,0.76,0.562000
-29,Angola,0.756,0.242000
-30,Mali,0.754,0.590000
-31,Afghanistan,0.751,0.679000
-32,Bolivia,0.743,0.662000
-33,United Arab Emirates,0.737,0.650000
-34,Senegal,0.727,0.402000
-35,Zambia,0.726,0.189000
-36,Namibia,0.724,0.589000
-37,Soviet Union (1922–1991),0.711,0.596000
-38,Sudan (1955–2011),0.708,0.698000
-39,Kuwait,0.708,0.540000
-40,Burkina Faso,0.704,0.354000
-41,Bosnia and Herzegovina,0.681,0.146000
-42,Kyrgyzstan,0.679,0.624000
-43,Nepal,0.677,0.542000
-44,Iran,0.669,0.542000
-45,Guinea,0.669,0.490000
-46,Kazakhstan,0.664,0.620000
-47,Colombia,0.656,0.020000
-48,Ecuador,0.655,0.480000
-49,Eritrea,0.647,0.398000
-50,Trinidad and Tobago,0.647,0.380000
-51,Peru,0.638,0.506000
-52,Niger,0.637,0.600000
-53,Mauritius,0.632,0.448000
-54,Mauritania,0.625,0.272000
-55,Benin,0.622,0.400000
-56,Guyana,0.62,0.460000
-57,Djibouti,0.606,0.404000
-58,Bhutan,0.605,0.518000
-59,Malaysia,0.596,0.564000
-60,Canada,0.596,0.499000
-61,Latvia,0.585,0.441000
-62,Syria,0.581,0.235000
-63,Switzerland,0.575,0.418000
-64,Kingdom of Yugoslavia (1918–1943),0.575,0.392000
-65,Belgium,0.567,0.462000
-66,Fiji,0.566,0.553000
-67,Saudi Arabia,0.553,0.413000
-68,Bahrain,0.551,0.460000
-69,Iraq,0.549,0.355000
-70,Brazil,0.549,0.020000
-71,Mexico,0.542,0.434000
-72,Macedonia,0.535,0.432000
-73,Pakistan,0.532,0.289000
-74,Tunisia,0.526,0.246000
-75,Burma,0.522,0.419000
-76,Tajikistan,0.513,0.492000
-77,Estonia,0.511,0.492000
-78,Moldova,0.51,0.401000
-79,Jordan,0.509,0.049000
-80,Panama,0.507,0.168000
-81,Czechoslovakia (1918–1992),0.505,0.290000
-82,Spain,0.502,0.263000
-83,Chile,0.497,0.167000
-84,Guatemala,0.493,0.493000
-85,United States,0.491,0.271000
-86,Georgia,0.49,0.404000
-87,Uzbekistan,0.485,0.442000
-88,Venezuela,0.483,0.020000
-89,Laos,0.481,0.020000
-90,Morocco,0.479,0.360000
-91,Oman,0.439,0.404000
-92,Thailand,0.431,0.431000
-93,Sri Lanka,0.428,0.386000
-94,Ukraine,0.419,0.258000
-95,Nicaragua,0.402,0.095000
-96,Turkmenistan,0.392,0.328000
-97,Singapore,0.388,0.388000
-98,Dominican Republic,0.387,0.000000
-99,Croatia,0.375,0.185000
-100,Belarus,0.372,0.228000
-101,Zimbabwe,0.366,0.141000
-102,New Zealand,0.363,0.363000
-103,Cyprus,0.359,0.359000
-104,Botswana,0.351,0.161000
-105,Lithuania,0.338,0.259000
-106,Russia,0.333,0.311000
-107,Slovakia,0.332,0.293000
-108,Burundi,0.328,0.040000
-109,United Kingdom,0.324,0.184000
-110,Czech Republic,0.322,0.064000
-111,Algeria,0.32,0.237000
-112,Romania,0.3,0.265000
-113,Turkey,0.299,0.299000
-114,Bulgaria,0.299,0.250000
-115,Swaziland,0.28,0.143000
-116,Taiwan,0.274,0.169000
-117,France,0.272,0.251000
-118,Mongolia,0.272,0.227000
-119,Lesotho,0.255,0.057000
-120,Argentina,0.255,0.000000
-121,Costa Rica,0.238,0.078000
-122,Vietnam,0.233,0.210000
-123,Slovenia,0.231,0.170000
-124,Bangladesh,0.223,0.141000
-125,Uruguay,0.218,0.000000
-126,Cuba,0.213,0.020000
-127,El Salvador,0.198,0.180000
-128,Sweden,0.189,0.189000
-129,Azerbaijan,0.188,0.187000
-130,Hungary,0.186,0.185000
-131,Cambodia,0.186,0.150000
-132,Honduras,0.185,0.167000
-133,Rwanda,0.18,0.000000
-134,Ireland,0.171,0.157000
-135,Jamaica,0.166,0.027000
-136,Egypt,0.164,0.000000
-137,Philippines,0.161,0.116000
-138,China,0.154,0.154000
-139,Libya,0.151,0.127000
-140,Australia,0.149,0.147000
-141,Armenia,0.134,0.124000
-142,Finland,0.132,0.132000
-143,Paraguay,0.132,0.039000
-144,Denmark,0.128,0.128000
-145,Austria,0.126,0.100000
-146,Norway,0.098,0.098000
-147,Albania,0.097,0.082000
-148,Germany,0.095,0.090000
-149,Haiti,0.095,0.000000
-150,Yemen,0.078,0.078000
-151,Netherlands,0.077,0.077000
-152,Greece,0.059,0.050000
-153,Poland,0.047,0.041000
-154,Portugal,0.04,0.040000
-155,Italy,0.04,0.040000
-156,Israel,0.039,0.033000
-157,Japan,0.012,0.012000
-158,South Korea,0.004,0.004000
-159,North Korea,0.002,0.002000
+Rank,code,Country,Ethnic Fractionalization Index,Cultural Diversity Index
+1,PNG,Papua New Guinea,1,
+2,TZA,Tanzania,0.953,0.564
+4,UGA,Uganda,0.93,0.647
+5,LBR,Liberia,0.899,0.644
+6,CMR,Cameroon,0.887,0.733
+7,TGO,Togo,0.883,0.602
+8,ZAF,South Africa,0.88,0.53
+10,MDG,Madagascar,0.861,0.192
+11,GAB,Gabon,0.857,0.382
+12,KEN,Kenya,0.852,0.601
+13,GHA,Ghana,0.846,0.388
+14,MWI,Malawi,0.829,0.294
+15,GNB,Guinea-Bissau,0.818,0.568
+16,SOM,Somalia,0.812,0.29
+17,IND,India,0.811,0.667
+18,NGA,Nigeria,0.805,0.66
+20,CAF,Central African Republic,0.791,0.511
+21,CI,Ivory Coast,0.784,0.557
+22,LBN,Lebanon,0.78,0.195
+23,TCD,Chad,0.772,0.727
+24,IDN,Indonesia,0.766,0.522
+25,MOZ,Mozambique,0.765,0.285
+26,GMB,Gambia,0.764,0.548
+27,SLE,Sierra Leone,0.764,0.534
+28,ETH,Ethiopia,0.76,0.562
+29,AGO,Angola,0.756,0.242
+30,MLI,Mali,0.754,0.59
+31,AFG,Afghanistan,0.751,0.679
+32,BOL,Bolivia,0.743,0.662
+33,ARE,United Arab Emirates,0.737,0.65
+34,SEN,Senegal,0.727,0.402
+35,ZMB,Zambia,0.726,0.189
+36,NAM,Namibia,0.724,0.589
+39,KWT,Kuwait,0.708,0.54
+40,BFA,Burkina Faso,0.704,0.354
+41,BIH,Bosnia and Herzegovina,0.681,0.146
+42,KGZ,Kyrgyzstan,0.679,0.624
+43,NPL,Nepal,0.677,0.542
+44,IRN,Iran,0.669,0.542
+45,GIN,Guinea,0.669,0.49
+46,KAZ,Kazakhstan,0.664,0.62
+47,COL,Colombia,0.656,0.02
+48,ECU,Ecuador,0.655,0.48
+49,ERI,Eritrea,0.647,0.398
+50,TTO,Trinidad and Tobago,0.647,0.38
+51,PER,Peru,0.638,0.506
+52,NER,Niger,0.637,0.6
+53,MUS,Mauritius,0.632,0.448
+54,MRT,Mauritania,0.625,0.272
+55,BEN,Benin,0.622,0.4
+56,GUY,Guyana,0.62,0.46
+57,DJI,Djibouti,0.606,0.404
+58,BTN,Bhutan,0.605,0.518
+59,MYS,Malaysia,0.596,0.564
+60,CAN,Canada,0.596,0.499
+61,LVA,Latvia,0.585,0.441
+62,SYR,Syria,0.581,0.235
+63,CHE,Switzerland,0.575,0.418
+65,BEL,Belgium,0.567,0.462
+66,FJI,Fiji,0.566,0.553
+67,SAU,Saudi Arabia,0.553,0.413
+68,BHR,Bahrain,0.551,0.46
+69,IRQ,Iraq,0.549,0.355
+70,BRA,Brazil,0.549,0.02
+71,MEX,Mexico,0.542,0.434
+72,MKD,Macedonia,0.535,0.432
+73,PAK,Pakistan,0.532,0.289
+74,TUN,Tunisia,0.526,0.246
+76,TJK,Tajikistan,0.513,0.492
+77,EST,Estonia,0.511,0.492
+78,MDA,Moldova,0.51,0.401
+79,JOR,Jordan,0.509,0.049
+80,PAN,Panama,0.507,0.168
+82,ESP,Spain,0.502,0.263
+83,CHL,Chile,0.497,0.167
+84,GTM,Guatemala,0.493,0.493
+85,USA,United States,0.491,0.271
+86,GEO,Georgia,0.49,0.404
+87,UZB,Uzbekistan,0.485,0.442
+88,VEN,Venezuela,0.483,0.02
+90,MAR,Morocco,0.479,0.36
+91,OMN,Oman,0.439,0.404
+92,THA,Thailand,0.431,0.431
+93,LKA,Sri Lanka,0.428,0.386
+94,UKR,Ukraine,0.419,0.258
+95,NIC,Nicaragua,0.402,0.095
+96,TKM,Turkmenistan,0.392,0.328
+97,SGP,Singapore,0.388,0.388
+98,DOM,Dominican Republic,0.387,0
+99,HRV,Croatia,0.375,0.185
+100,BLR,Belarus,0.372,0.228
+101,ZWE,Zimbabwe,0.366,0.141
+102,NZL,New Zealand,0.363,0.363
+103,CYP,Cyprus,0.359,0.359
+104,BWA,Botswana,0.351,0.161
+105,LTU,Lithuania,0.338,0.259
+106,RUS,Russia,0.333,0.311
+107,SVK,Slovakia,0.332,0.293
+108,BDI,Burundi,0.328,0.04
+109,GBR,United Kingdom,0.324,0.184
+110,CZE,Czech Republic,0.322,0.064
+111,DZA,Algeria,0.32,0.237
+112,ROU,Romania,0.3,0.265
+113,TUR,Turkey,0.299,0.299
+114,BGR,Bulgaria,0.299,0.25
+115,SWZ,Swaziland,0.28,0.143
+116,TWN,Taiwan,0.274,0.169
+117,FRA,France,0.272,0.251
+118,MNG,Mongolia,0.272,0.227
+119,LSO,Lesotho,0.255,0.057
+120,ARG,Argentina,0.255,0
+121,CRI,Costa Rica,0.238,0.078
+122,VNM,Vietnam,0.233,0.21
+123,SVN,Slovenia,0.231,0.17
+124,BGD,Bangladesh,0.223,0.141
+125,URY,Uruguay,0.218,0
+126,CUB,Cuba,0.213,0.02
+127,SLV,El Salvador,0.198,0.18
+128,SWE,Sweden,0.189,0.189
+129,AZE,Azerbaijan,0.188,0.187
+130,HUN,Hungary,0.186,0.185
+131,KHM,Cambodia,0.186,0.15
+132,HND,Honduras,0.185,0.167
+133,RWA,Rwanda,0.18,0
+134,IRL,Ireland,0.171,0.157
+135,JAM,Jamaica,0.166,0.027
+136,EGY,Egypt,0.164,0
+137,PHL,Philippines,0.161,0.116
+138,CHN,China,0.154,0.154
+139,LBY,Libya,0.151,0.127
+140,AUS,Australia,0.149,0.147
+141,ARM,Armenia,0.134,0.124
+142,FIN,Finland,0.132,0.132
+143,PRY,Paraguay,0.132,0.039
+144,DNK,Denmark,0.128,0.128
+145,AUT,Austria,0.126,0.1
+146,NOR,Norway,0.098,0.098
+147,ALB,Albania,0.097,0.082
+148,DEU,Germany,0.095,0.09
+149,HTI,Haiti,0.095,0
+150,YEM,Yemen,0.078,0.078
+151,NLD,Netherlands,0.077,0.077
+152,GRC,Greece,0.059,0.05
+153,POL,Poland,0.047,0.041
+154,PRT,Portugal,0.04,0.04
+155,ITA,Italy,0.04,0.04
+156,ISR,Israel,0.039,0.033
+157,JPN,Japan,0.012,0.012
+158,PRK,South Korea,0.004,0.004
+159,KOR,North Korea,0.002,0.002
